@@ -27,7 +27,7 @@ class Owner
     @@owners.clear
   end 
   
-  def buy_cat(cat)
+  def buy_cat(cat_name)
     
   end 
   
