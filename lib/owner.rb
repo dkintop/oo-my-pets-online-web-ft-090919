@@ -32,7 +32,7 @@ class Owner
   end 
   
   def dogs 
-    @dog
+    @dogs
   end
   
  
