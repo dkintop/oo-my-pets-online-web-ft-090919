@@ -8,7 +8,7 @@ class Dog
     @owner = owner
     @mood = "nervous"
     @@all << self 
-    binding.pry
+    #binding.pry
     self.owner.dogs << self
     
   end 
