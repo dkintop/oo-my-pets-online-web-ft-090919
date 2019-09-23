@@ -57,8 +57,8 @@ class Owner
       dog.mood = "nervous"
       dog.owner = nil
     end
-    
-    
+    self.cats = nil 
+    self.dogs = nil
   end 
   
  
