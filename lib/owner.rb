@@ -27,13 +27,13 @@ class Owner
     @@owners.clear
   end 
   
-  def cats 
-    @cats
-  end 
+  #def cats 
+   # @cats
+  #end 
   
-  def dogs 
-    @dogs
-  end
+  #def dogs 
+   # @dogs
+  #end
   
  
   
