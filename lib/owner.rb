@@ -27,7 +27,9 @@ class Owner
     @@owners.clear
   end 
   
- 
+  def buy_cat
+    
+  end 
   
  
   
